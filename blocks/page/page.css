@@ -1,0 +1,9 @@
+.page{
+    background: #FFF1F7;
+    box-sizing: border-box;
+    min-height: 100vh;
+    font-family: 'IBMP Plex Mono';
+    color: #353430;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}   

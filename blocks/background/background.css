@@ -1,0 +1,9 @@
+.background {
+    background-image: url('/images/cover-image-light\ 1.jpg');
+    width: 1024px;
+    height: 768px;
+    object-fit: cover;
+    position: absolute;
+    inset: 0 auto; 
+    z-index: -1;
+}
