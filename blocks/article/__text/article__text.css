@@ -1,0 +1,6 @@
+.article__text {
+    width: 649px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}

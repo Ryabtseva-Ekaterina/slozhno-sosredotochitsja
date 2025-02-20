@@ -4,6 +4,7 @@
     background-color: white;
     box-sizing: border-box;
     padding: 2px 13px;
+    cursor: pointer;
 }
 
 .header__menu-punkt:active {

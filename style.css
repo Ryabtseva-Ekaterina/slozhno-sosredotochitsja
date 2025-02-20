@@ -7,3 +7,14 @@
 @import url('/blocks/header/header.css');
 @import url('/blocks/header/__menu/header__menu.css');
 @import url('/blocks/header/__menu-punkt/header__menu-punkt.css');
+@import url('/blocks/title/title.css');
+@import url('/blocks/subtitle/subtitle.css');
+@import url('/blocks/decoration/decoration.css');
+@import url('/blocks/decoration/_position/decoration_position_bottom.css');
+@import url('/blocks/decoration/_position/decoration_position_top.css');
+@import url('/blocks/article/article.css');
+@import url('/blocks/article/__title/article__title.css');
+@import url('/blocks/article/__text/article__text.css');
+@import url('/blocks/article/__paragraph/article__paragraph.css');
+@import url('/blocks/article/__paragraph-title/article__pragrapg-title.css');
+@import url('/blocks/article/__paragraph-text/article__paragraph-text.css');
