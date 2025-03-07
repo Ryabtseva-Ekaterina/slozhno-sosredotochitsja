@@ -1,0 +1,30 @@
+{
+  "name": "slozhno-sosredotochitsja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Привет",
+    "check": "prettier --check './**/*.{html,css,js}'",
+    "format": "prettier --write './**/*.{html,css,js}'",
+    "lint": "stylelint **/*.css",
+    "lintfix": "stylelint **/*.css --fix",
+    "checkAll": "npm run check && npm run lint",
+    "fixAll": "npm run format && npm run lintfix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryabtseva-Ekaterina/slozhno-sosredotochitsja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryabtseva-Ekaterina/slozhno-sosredotochitsja/issues"
+  },
+  "homepage": "https://github.com/Ryabtseva-Ekaterina/slozhno-sosredotochitsja#readme",
+  "description": "",
+  "dependencies": {
+    "pretier": "^0.0.1",
+    "prettier": "^3.5.3",
+    "stylelint": "^16.15.0"
+  }
+}

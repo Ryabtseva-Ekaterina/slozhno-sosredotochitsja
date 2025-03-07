@@ -1,0 +1,7 @@
+.images__grid {
+    display: grid;
+    grid-template-columns: 315px 315px 315px;
+    grid-template-rows: 260px 315px 1fr;
+    gap: 20px;
+    max-width: 984px;
+}

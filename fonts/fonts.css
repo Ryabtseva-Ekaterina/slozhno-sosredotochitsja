@@ -1,16 +1,17 @@
 @font-face {
-    font-family: 'IBMP Plex Mono';
-    src: url('../fonts/IBMPlexMono.woff') format('woff'),
-         url('../fonts/IBMPlexMono.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'IBMP Plex Mono';
+  src:
+    url(../fonts/IBMPlexMono.woff) format('woff'),
+    url(../fonts/IBMPlexMono.woff2) format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'IBMP Plex Mono';
-    src: url('../fonts/IBMPlexMono-Bold.woff') format('woff'),
-         url('../fonts/IBMPlexMono-Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
+  font-family: 'IBMP Plex Mono';
+  src:
+    url(../fonts/IBMPlexMono-Bold.woff) format('woff'),
+    url(../fonts/IBMPlexMono-Bold.woff2) format('woff2');
+  font-weight: bold;
+  font-style: normal;
 }
-

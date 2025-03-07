@@ -1,0 +1,4 @@
+.image_position_second {
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
